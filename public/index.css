@@ -1,0 +1,7 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#foods-list {
+    list-style-type: none;
+}
